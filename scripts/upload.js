@@ -1,8 +1,8 @@
 const open = require("open");
 const path = require("path");
 const server = "$";
-const file = "JSONata";
-const uploadScript = "UploadToParserHTML";
+const file = "JSDev";
+const uploadScript = "UploadToHTML";
 
 const fileUrl = `fmp://${server}/${file}?script=${uploadScript}&param=`;
 
