@@ -15,7 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.0.2",
-    "c3": "^0.7.20"
+    "c3": "^0.7.20",
+    "material-components-web": "^12.0.0"
   },
   "devDependencies": {
     "open": "^8.2.1",
